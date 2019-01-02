@@ -1,0 +1,52 @@
+<svg id="wk-sand-clock" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #d1ebff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fab007;
+      }
+
+      .cls-3 {
+        fill: #a18443;
+      }
+    </style>
+  </defs>
+  <path id="wk-glass" class="cls-1" d="M107.643,90.244c-0.99,6.013-1.975,15.692-.213,24.493,46.644,4.2,48.12,56.771,48.12,56.771H46.45s2.152-51.933,48.019-56.7a78.787,78.787,0,0,0-.044-24.631C48.6,85.393,46.45,33.492,46.45,33.492h109.1S154.079,85.907,107.643,90.244Z"/>
+  <path id="wk-sand" class="cls-2" d="M104.967,134.759l39.067,39.076H56.45l39.067-39.076A7.106,7.106,0,0,1,104.967,134.759ZM58,55.846h86.784C130,95.08,71.055,94.742,58,55.846Z"/>
+  <path id="wk-wood" class="cls-3" d="M38,171.5H164V180H38v-8.5ZM38,25H164v8.5H38V25Z"/>
+</svg>

@@ -1,0 +1,81 @@
+<svg id="wk-server" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #3a5269;
+      }
+
+      .cls-2 {
+        fill: #263a4d;
+      }
+
+      .cls-2, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #508f4c;
+      }
+
+      .cls-4 {
+        fill: #ec6b6b;
+      }
+
+      .cls-5 {
+        fill: #ac8643;
+      }
+
+      .cls-6 {
+        fill: #7b93aa;
+      }
+    </style>
+  </defs>
+  <rect id="wk-server-bg" class="cls-1" x="39" y="9" width="124" height="185" rx="2" ry="2"/>
+  <g id="wk-server-a">
+    <path id="wk-disk-space" class="cls-2" d="M58.438,21.031h68.469v8.313H58.438V21.031Zm0,13.875h68.469v8.313H58.438V34.906Zm0,13.875h68.469v8.313H58.438V48.781Z"/>
+    <circle id="wk-green" class="cls-3" cx="139.406" cy="25.188" r="4.156"/>
+    <ellipse id="wk-red" class="cls-4" cx="139.406" cy="39.063" rx="4.156" ry="4.156"/>
+    <ellipse id="wk-orange" class="cls-5" cx="139.406" cy="52.938" rx="4.156" ry="4.156"/>
+  </g>
+  <g id="wk-server-b">
+    <path id="wk-disk-space-2" data-name="wk-disk-space" class="cls-2" d="M58.438,83.031h68.469v8.313H58.438V83.031Zm0,13.875h68.469v8.313H58.438V96.906Zm0,13.875h68.469v8.313H58.438v-8.313Z"/>
+    <circle id="wk-green-2" data-name="wk-green" class="cls-3" cx="139.406" cy="87.188" r="4.156"/>
+    <ellipse id="wk-red-2" data-name="wk-red" class="cls-4" cx="139.406" cy="101.063" rx="4.156" ry="4.156"/>
+    <ellipse id="wk-orange-2" data-name="wk-orange" class="cls-5" cx="139.406" cy="114.938" rx="4.156" ry="4.156"/>
+  </g>
+  <g id="wk-server-c">
+    <path id="wk-disk-space-3" data-name="wk-disk-space" class="cls-2" d="M58.438,146.031h68.469v8.313H58.438v-8.313Zm0,13.875h68.469v8.313H58.438v-8.313Zm0,13.875h68.469v8.313H58.438v-8.313Z"/>
+    <circle id="wk-green-3" data-name="wk-green" class="cls-3" cx="139.406" cy="150.188" r="4.156"/>
+    <ellipse id="wk-red-3" data-name="wk-red" class="cls-4" cx="139.406" cy="164.063" rx="4.156" ry="4.156"/>
+    <ellipse id="wk-orange-3" data-name="wk-orange" class="cls-5" cx="139.406" cy="177.938" rx="4.156" ry="4.156"/>
+  </g>
+  <path id="wk-sep" class="cls-6" d="M39,69H163v2H39V69Zm0,63H163v2H39v-2Z"/>
+</svg>

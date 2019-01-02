@@ -1,0 +1,74 @@
+<svg id="wk-clock" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #34495e;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #555;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #e85757;
+      }
+
+      .cls-6 {
+        stroke: #34495e;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="101.5" cy="101.5" r="74.5"/>
+  <circle id="Ellipse_6_copy" data-name="Ellipse 6 copy" class="cls-2" cx="101.125" cy="101.125" r="64.437"/>
+  <g id="Points">
+    <rect class="cls-3" x="100" y="44.125" width="2.25" height="8.938"/>
+    <rect id="Rectangle_22_copy" data-name="Rectangle 22 copy" class="cls-3" x="100" y="149.188" width="2.25" height="8.937"/>
+    <rect id="Rectangle_22_copy_2" data-name="Rectangle 22 copy 2" class="cls-3" x="149.188" y="100" width="8.937" height="2.25"/>
+    <rect id="Rectangle_22_copy_2-2" data-name="Rectangle 22 copy 2" class="cls-3" x="44.125" y="100" width="8.938" height="2.25"/>
+    <path id="Rectangle_22_copy_3" data-name="Rectangle 22 copy 3" class="cls-4" d="M140.637,60.037l1.58,1.581L135.9,67.939l-1.58-1.58Z"/>
+    <path id="Rectangle_22_copy_3-2" data-name="Rectangle 22 copy 3" class="cls-4" d="M66.359,134.315l1.58,1.581-6.322,6.321-1.58-1.58Z"/>
+    <path id="Rectangle_22_copy_3-3" data-name="Rectangle 22 copy 3" class="cls-4" d="M135.9,134.315l6.321,6.322-1.58,1.58-6.321-6.321Z"/>
+    <path id="Rectangle_22_copy_3-4" data-name="Rectangle 22 copy 3" class="cls-4" d="M61.618,60.037l6.322,6.322-1.58,1.58-6.321-6.321Z"/>
+    <rect class="cls-5" x="97.781" y="62.75" width="6.719" height="40.25" rx="3.354" ry="3.354"/>
+    <rect id="Rectangle_23_copy" data-name="Rectangle 23 copy" class="cls-5" x="72.438" y="97.781" width="34.281" height="6.719" rx="3.354" ry="3.354"/>
+    <circle class="cls-6" cx="101.141" cy="101.141" r="7.078"/>
+  </g>
+</svg>

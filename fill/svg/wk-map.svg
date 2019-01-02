@@ -1,0 +1,57 @@
+<svg id="wk-map" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #72d1f9;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #69c5ec;
+      }
+
+      .cls-3 {
+        fill: #e85757;
+      }
+
+      .cls-4 {
+        fill: #cb4343;
+      }
+    </style>
+  </defs>
+  <path id="wk-map-2" data-name="wk-map" class="cls-1" d="M1,72l47.672,13.81L94.6,66.476l57.918,8.888L200,142.428l-63.493-15.19L74.364,159l-55.4-17.953Z"/>
+  <path id="wk-shadow" class="cls-2" d="M48.672,85.809L94.6,66.476l41.909,60.762L74.364,159Z"/>
+  <path id="wk-navigation" class="cls-3" d="M90.135,43c15.647,0,28.33,12.455,28.33,27.819s-25,42.512-28.33,42.609-28.33-27.245-28.33-42.609S74.489,43,90.135,43Z"/>
+  <circle id="wk-hole" class="cls-4" cx="90.141" cy="70.813" r="12.578"/>
+</svg>

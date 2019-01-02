@@ -1,0 +1,63 @@
+<svg id="wk-headphones" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #34495e;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+
+      .cls-3 {
+        fill: #f05f5f;
+      }
+
+      .cls-4 {
+        fill: #d74545;
+      }
+    </style>
+  </defs>
+  <path id="wk-head-band" class="cls-1" d="M172.8,123.961v-5.612C172.8,69.555,141.359,30,101,30s-71.795,39.556-71.795,88.35v5.612l-9.193.031v-7.105C20.012,63.378,56.272,20,101,20s80.988,43.378,80.988,96.887v7.105Z"/>
+  <path id="wk-uppar-metal" class="cls-2" d="M35.152,91a113.586,113.586,0,0,0-3.012,26.361v5.627H18.01v-7.181A113.587,113.587,0,0,1,20.76,91H35.152Zm146.114,0c1.773,7.989,3.725,16.309,3.725,24.807l-1,7.181h-14v-5.627A114.588,114.588,0,0,0,167.005,91h14.26Z"/>
+  <g id="wk-left-speaker">
+    <path id="wk-speaker" class="cls-3" d="M33.99,174.987H29.549a28.991,28.991,0,0,1,0-57.975H33.99v57.975Z"/>
+    <rect id="wk-pad" class="cls-4" x="32" y="109" width="26" height="73" rx="3.5" ry="3.5"/>
+  </g>
+  <g id="wk-right-speaker">
+    <path id="wk-speaker-2" data-name="wk-speaker" class="cls-3" d="M168.01,174.987h4.441a28.991,28.991,0,0,0,0-57.975H168.01v57.975Z"/>
+    <rect id="wk-pad-2" data-name="wk-pad" class="cls-4" x="144" y="109" width="26" height="73" rx="3.5" ry="3.5"/>
+  </g>
+</svg>

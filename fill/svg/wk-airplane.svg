@@ -1,0 +1,68 @@
+<svg id="wk-airplane" xmlns="http://www.w3.org/2000/svg" width="202" height="202" viewBox="0 0 202 202">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #71bce2;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #64aacd;
+      }
+
+      .cls-3 {
+        fill: #a6d3ea;
+      }
+
+      .cls-4 {
+        fill: #6fa7c4;
+      }
+    </style>
+  </defs>
+  <path id="wk-bottom-left-wing" class="cls-1" d="M63.189,130.516l-18.5,18.754L26.362,130.69a1.366,1.366,0,0,1,.009-1.914l2.372-2.4C46.89,128.436,63.189,130.516,63.189,130.516Z"/>
+  <path id="wk-bottom-right-wing" class="cls-1" d="M74.187,141.573l-18.652,18.6L74.013,178.6a1.349,1.349,0,0,0,1.9-.009l2.391-2.384C76.255,157.962,74.187,141.573,74.187,141.573Z"/>
+  <g id="wk-left-wing">
+    <path id="wk-engine-b" class="cls-2" d="M72.949,32.893a6.079,6.079,0,0,1,0,8.563L60.174,54.3l-8.517-8.563L64.432,32.893A6,6,0,0,1,72.949,32.893Z"/>
+    <path id="wk-engine-a" class="cls-2" d="M107.015,36.007a6.078,6.078,0,0,1,0,8.563L94.24,57.416l-8.517-8.563L98.5,36.007A6,6,0,0,1,107.015,36.007Z"/>
+    <path id="wk-left-engine" class="cls-1" d="M35.121,34.34l86.781,15.5-30.627,30.8L23.008,46.519Z"/>
+  </g>
+  <g id="wk-right-wing">
+    <path id="wk-engine-b-2" data-name="wk-engine-b" class="cls-2" d="M168.307,128.519a6.08,6.08,0,0,1,0,8.563l-12.853,12.923-8.517-8.563,12.853-12.923A6,6,0,0,1,168.307,128.519Z"/>
+    <path id="wk-engine-a-2" data-name="wk-engine-a" class="cls-2" d="M165.28,94.195a6.078,6.078,0,0,1,0,8.563l-12.852,12.923-8.517-8.563,12.853-12.923A6,6,0,0,1,165.28,94.195Z"/>
+    <path id="wk-right-wing-2" data-name="wk-right-wing" class="cls-1" d="M166.8,166.627L151.541,79.205l-30.767,30.936,33.854,68.721Z"/>
+  </g>
+  <path id="wk-body" class="cls-3" d="M171.053,23.072c5.734,1.206,6.671,1.965,7.955,8.064-3.228,61.273-123.48,130.6-123.48,130.6s-18.687,6.4-12.388-12.455C42.774,149.939,110.007,19.436,171.053,23.072Z"/>
+  <path id="wk-front-glass" class="cls-4" d="M153.856,30.169c15.558,1.966,17.807,17.905,17.807,17.905l-3.871,7.006a27.505,27.505,0,0,0-20.9-21.019C146.089,34.463,152.658,30.838,153.856,30.169Z"/>
+  <path id="wk-mid-wing" class="cls-1" d="M56.967,146.07l1.547,1.566-17.7,21.111-4.64-4.7Z"/>
+</svg>
